@@ -4,7 +4,8 @@ Welcome to my interactive **solar system-themed portfolio**!
 Every planet, moon, and orbit in this virtual cosmos opens a portal to my education, experience, research, skills, and projects.  
 Explore my universe of computational physics, AI, photonics, and much more—presented with glowing effects, pop-up modals, and cosmic style.
 
-![Me](https://imgur.com/gallery/eras-tour-Vpz7LXo#YlK0ZEZ)
+![Me](https://i.imgur.com/uXfaHzu.jpg)
+
 This is me!
 ---
 
@@ -80,8 +81,9 @@ This is me!
 
 sid-solar-system-portfolio/
 │
-├── index.html # Main interactive portfolio (all CSS/JS inline)
-└── README.md # This file
+├── index.html   # Main interactive portfolio (all CSS/JS inline)
+└── README.md    # This file
+
 
 
 ---
@@ -104,7 +106,9 @@ sid-solar-system-portfolio/
 
 ## 🪐 Preview
 
-<img src="https://imgur.com/a/UrCvh5o" alt="Solar System Portfolio Screenshot" width="650">
+![Screenshot](https://i.imgur.com/4qLKhWt.png)
+
+
 
 ---
 
