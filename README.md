@@ -11,7 +11,7 @@ This is me!
 
 ## 🚀 Live Demo
 
-[**View the site on GitHub Pages**](https://sid1336.github.io/sid-solar-system-portfolio/)  
+[**View the site on GitHub Pages**](https://sid1336.github.io/sid-solar-system-portfolio.github.io/) 
 *(or open `solar.html`/`index.html` locally in your browser)*
 
 ---
